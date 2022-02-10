@@ -5,7 +5,7 @@
         "first_name":"aadarsh",
         "last_name":"verma",
         "mobile_number":854782356,
-        "emai":"sdvsd5@gmail.com",
+        "email":"sdvsd5@gmail.com",
         "gender":"male"
     },{
         "member_id":2,
@@ -13,7 +13,7 @@
         "first_name":"priyanka",
         "last_name":"yadav",
         "mobile_number":865421478,
-        "emai":"sdvdfd5@gmail.com",
+        "email":"sdvdfd5@gmail.com",
         "gender":"female"
     }]
 }
